@@ -135,4 +135,3 @@ if (script_auto_random_post == 'on') {
     }
 
 }
-//]]>
